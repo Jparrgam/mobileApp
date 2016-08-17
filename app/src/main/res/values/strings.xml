@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mobileApp</string>
+    <string name="title_splash">Prueba Grability</string>
+    <string name="not_connection_wifi">No tienes conexion a internet o datos</string>
+    <string name="data_not_found">No se encontraron datos, por favor conectate a una red Wifi para descargar la informacion</string>
+    <string name="progress_dialog">Un momento por favor</string>
+    <string name="content_description">content_description</string>
+</resources>
